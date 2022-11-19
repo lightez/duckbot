@@ -1,1 +1,2 @@
 # duckbot
+*   using «npm install».
